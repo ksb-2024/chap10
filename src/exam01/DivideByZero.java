@@ -20,5 +20,6 @@ public class DivideByZero {
 		}
 		
 		System.out.println("프로그램 종료.");
+		System.out.println("1차 기능 완료");
 	}
 }
